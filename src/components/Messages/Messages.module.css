@@ -1,0 +1,28 @@
+
+.messages{
+    border: 1px solid black;
+    padding: 10px;
+    height: 500px;
+    width: 500px;
+    overflow: auto;
+}
+
+.controls{
+    display: flex;
+    width: 522px;
+}
+
+.controls textarea{
+    width: 85%;
+}
+
+.controls button{
+    margin: 0;
+    background-color: #7eb1e0;
+    width: 15%;
+    padding: 10px;
+    border: 1px solid #57708a;
+}
+.controls button:hover{
+    background-color: #6189ad;
+}

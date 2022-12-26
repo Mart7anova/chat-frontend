@@ -1,0 +1,21 @@
+.chat{
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+
+.messages{
+    border: 1px solid black;
+    padding: 10px;
+    height: 500px;
+    width: 500px;
+    overflow: auto;
+}
+
+.controls{
+    width: 500px;
+}
+
+.controls textarea{
+    width: 85%;
+}
